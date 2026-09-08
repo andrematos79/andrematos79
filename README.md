@@ -10,10 +10,10 @@ My background combines extensive knowledge of electronic products and manufactur
 
 ## Current Activities
 
-- Resident Researcher in Microelectronics at **CBPF**
-- M.Sc. Candidate in Electrical Engineering at **UEA**
-- Research in embedded systems, digital design, computer vision, and industrial automation
-- Development and validation of technology solutions for manufacturing environments
+- Electronics Test Engineering and R&D at **Instituto Conecthus**, working on product test support, development of new test solutions, test automation, embedded systems, sensors, Python/C++, and computer vision for manufacturing environments.
+- Resident Researcher in **Microelectronics at CBPF**, working with digital design, SystemVerilog/RTL, verification, communication protocols, and data-conversion systems.
+- M.Sc. Candidate in **Electrical Engineering at UEA**, researching Artificial Intelligence and Computer Vision applied to automated industrial inspection.
+- Development and validation of industrial technology solutions involving **Test Engineering, Embedded Systems, IoT/IIoT, automation, traceability, and hardware–software integration**.
 
 ## Core Expertise
 
@@ -26,8 +26,6 @@ My background combines extensive knowledge of electronic products and manufactur
 - Hardware, Firmware, and Software Integration
 - Reliability, Troubleshooting, and Failure Analysis
 - Digital Design, SystemVerilog, RTL, and Verification
-
-## Featured Projects
 
 ## Featured Projects
 
