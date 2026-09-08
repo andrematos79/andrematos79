@@ -29,9 +29,15 @@ My background combines extensive knowledge of electronic products and manufactur
 
 ## Featured Projects
 
+## Featured Projects
+
+### SAMSP — Smart Ambient Monitoring for Solder Paste
+
+Industrial IoT monitoring and traceability system for solder paste storage, integrating ESP32-based sensing, USB/Serial communication, a Python/Streamlit dashboard, operator authentication, FIFO inventory control, alarm/event logging, reporting, and LAN access. Registered with the Brazilian National Institute of Industrial Property — INPI.
+
 ### SVC Springs
 
-Computer vision system for automated spring inspection in electronic chargers, developed as part of my master’s research and registered with the Brazilian National Institute of Industrial Property — INPI.
+Computer vision system for automated spring inspection in electronic chargers, developed as part of my master's research and registered with the Brazilian National Institute of Industrial Property — INPI.
 
 ### SVC USB
 
@@ -51,12 +57,13 @@ Embedded platform for intelligent automation, control, and energy management of 
 `Embedded Systems` `IoT/IIoT` `SystemVerilog` `RTL` `Cadence`  
 `Industrial Automation` `Computer Vision` `Deep Learning`
 
-## Research and Intellectual Property
+## Research, Innovation and Intellectual Property
 
-- Software registrations granted by INPI
-- Research and development of AI-based industrial inspection systems
-- Technical documentation, experimental validation, and technology transfer
-- Microelectronics research involving digital circuits, ASIC design, and communication protocols
+- Software registrations granted by the Brazilian National Institute of Industrial Property (INPI), including **SAMSP**, **SVC Springs**, and **SVC USB**.
+- M.Sc. research in Electrical Engineering focused on **Artificial Intelligence and Computer Vision applied to automated industrial inspection**.
+- Resident research in **Microelectronics**, involving digital circuit design, RTL/SystemVerilog, verification, communication protocols, and development activities related to data-conversion systems.
+- Development and experimental validation of industrial R&D solutions integrating **embedded systems, sensors, automation, traceability, and hardware–software integration**.
+- Technical documentation, intellectual property protection, experimental validation, and preparation of technologies for industrial deployment.
 
 ## Professional Interests
 
